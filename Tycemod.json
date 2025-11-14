@@ -1,9 +1,10 @@
 {
-  "showDialog": true,
-  "latestVersionCode": 2,
-  "latestVersionName": "15.5.0",
-  "title": "give me 5₱🙏🏿",
-  "message": "it worked!!!!",
-  "UpdateButtonText": "5₱",
-  "UpdateButtonUrl": "https://t.me/Tyce01"
+  "credit": "tyceptMod",
+  "show_dialog": false,
+  "title": "🚀 Update Available",
+  "subtitle": "new version nigg*🫣",
+  "whatsnew": "i need money 😭😭",
+  "btn_update": "Update Now NIGG*",
+  "btn_exit": "Exit",
+  "link": "https://t.me/Tyce01"
 }
