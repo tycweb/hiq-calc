@@ -1,9 +1,9 @@
 {
-  "showDialog": false,
+  "showDialog": true,
   "latestVersionCode": 2,
   "latestVersionName": "15.5.0",
   "title": "give me 5₱🙏🏿",
-  "message": "akong mama mura'g walay balay.",
+  "message": "it worked!!!!",
   "UpdateButtonText": "5₱",
   "UpdateButtonUrl": "https://t.me/Tyce01"
 }
